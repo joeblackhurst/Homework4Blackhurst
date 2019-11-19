@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "442827006110",
+    "firebase_url": "https://homework4blackhurst.firebaseio.com",
+    "project_id": "homework4blackhurst",
+    "storage_bucket": "homework4blackhurst.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442827006110:android:f7005a370783d4b8331b8f",
+        "android_client_info": {
+          "package_name": "com.example.homework4blackhurst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442827006110-0bsijje62st204sm249ojkr7spd0fuhv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homework4blackhurst",
+            "certificate_hash": "2c44f6f70240013a48d474211efccf0da8da071f"
+          }
+        },
+        {
+          "client_id": "442827006110-d3ddgrgttbkvjm0pnjpn98sn2eue14a2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYlxRwUxMMPMn5PJo4zsuGEmqd9ymON5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442827006110-d3ddgrgttbkvjm0pnjpn98sn2eue14a2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
